@@ -33,6 +33,5 @@ function calcularCustoDekW() {
 
  //Execução do cálculo
  calcularCustoDekW()
-
+//teste
  //Atividade 2
- 
